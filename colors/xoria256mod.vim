@@ -1,7 +1,7 @@
 " Vim Color File
 "
 " Name: xoria256mod
-" Version: 0
+" Version: 0.1
 " Maintainer: deuiore <de@uio.re>
 " Website: https://github.com/deuiore/vim-xoria256mod
 "
