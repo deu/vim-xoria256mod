@@ -32,7 +32,7 @@ let colors_name = "xoria256mod"
 
 " Colours {{{1
 "" General {{{2
-hi ColorColumn      ctermfg=233 guifg=#121212 ctermbg=233 guibg=#121212
+hi ColorColumn                                ctermbg=233 guibg=#121212
 hi Cursor                                     ctermbg=214 guibg=#ffaf00
 hi CursorColumn                               ctermbg=238 guibg=#444444
 hi CursorLine                                 ctermbg=237 guibg=#3a3a3a cterm=none      gui=none
