@@ -1,11 +1,11 @@
 " Vim Color File
 "
 " Name: xoria256mod
-" Version: 0.1
+" Version: 0.2
 " Maintainer: deuiore <de@uio.re>
 " Website: https://github.com/deuiore/vim-xoria256mod
 "
-" Based_on: xoria256 v1.5
+" Based_on: xoria256 v1.6
 " MOD:
 "   - Tabs to spaces and spacing consistency;
 "   - added ExtraWS, ColorColumn, SignColumn;
@@ -129,10 +129,10 @@ hi htmlTitle        ctermfg=254               ctermbg=95
 hi htmlTagName      ctermfg=146
 hi htmlString       ctermfg=187
 """ django {{{3
-hi djangoVarBlock   ctermfg=180
-hi djangoTagBlock   ctermfg=150
-hi djangoStatement  ctermfg=146
-hi djangoFilter     ctermfg=174
+hi djangoVarBlock   ctermfg=180 guifg=#dfaf87
+hi djangoTagBlock   ctermfg=150 guifg=#afdf87
+hi djangoStatement  ctermfg=146 guifg=#afafdf
+hi djangoFilter     ctermfg=174 guifg=#df8787
 """ python {{{3
 hi pythonExceptions ctermfg=174
 """ MardDown {{{3
