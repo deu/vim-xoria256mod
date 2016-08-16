@@ -148,10 +148,14 @@ hi treeOpenable       ctermfg=150 guifg=#afdf87
 hi treePart           ctermfg=244 guifg=#808080
 hi treeDirSlash       ctermfg=244 guifg=#808080
 hi treeLink           ctermfg=182 guifg=#dfafdf
-""" vim-hlextraws
+""" vim-hlextraws {{{3
 hi ExtraWS                                      ctermbg=1   guibg=#800000
-""" Neomake
+""" Neomake {{{3
 hi NeomakeErrorSign   ctermfg=174 guifg=#d78787 ctermbg=233 guibg=#121212 cterm=bold      gui=bold
 hi NeomakeWarningSign ctermfg=179 guifg=#d7af5f ctermbg=233 guibg=#121212 cterm=bold      gui=bold
 hi NeomakeMessageSign ctermfg=110 guifg=#87afd7 ctermbg=233 guibg=#121212 cterm=bold      gui=bold
 hi NeomakeInfoSign    ctermfg=15  guifg=#ffffff ctermbg=233 guibg=#121212 cterm=bold      gui=bold
+""" fzf {{{3
+hi fzf1               ctermfg=174 guifg=#df8787 ctermbg=233 guibg=#121212
+hi fzf2               ctermfg=150 guifg=#afd787 ctermbg=233 guibg=#121212
+hi fzf3               ctermfg=251 guifg=#c6c6c6 ctermbg=233 guibg=#121212
